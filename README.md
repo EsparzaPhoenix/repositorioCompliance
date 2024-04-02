@@ -1,3 +1,3 @@
 # repositorioCompliance
 repositorio teste
-gitflow
+gitflow com bash
